@@ -1,5 +1,5 @@
 title: Javascript
-slug: javascript
+# slug: javascript
 description: This course helps you learn the basics of Javascript
 
 
@@ -7,48 +7,48 @@ projects:
   - title: Practica con Variables
     description: Practica con Variables
     path: ./projects/01_variables
-    slug: variables
+    # slug: variables
 
 chapters:
     - title: INTRODUCCION
-      slug: introduction
+      # slug: introduction
       description: This chapter introduces you to the course
       lessons:
           - title:  Variables
-            slug: variables
+            # slug: variables
             description: Variables
             path: 01_js/10_variables.mdx
           - title: Expresiones
-            slug: expresiones
+            # slug: expresiones
             description: expresiones
             path: 01_js/20_expresiones.mdx
           - title: Bucles
-            slug: bucles
+            # slug: bucles
             description: Estrucutras de control. Bucles
             path: 01_js/30_bucles.mdx
           - title: Condicional
-            slug: Condicional
+            # slug: Condicional
             description: Estrucutras de control. Condicional
             path: 01_js/40_condicionales.mdx
 
     - title: ALGORITMOS
-      slug: algoritmos
+      # slug: algoritmos
       description: Algoritmos en javascript
       lessons:
           - title: Condicionales
-            slug: condicionales
+            # slug: condicionales
             description: Condicional
             path: 02_algoritmos/10_condiciones.mdx
           - title: Math
-            slug: math
+            # slug: math
             description: El objeto Math
             path: 02_algoritmos/20_math.mdx
           - title: String
-            slug: string
+            # slug: string
             description: El objeto String
             path: 02_algoritmos/30_string.mdx
           - title: Date
-            slug: date
+            # slug: date
             description: El objeto Date
             path: 02_algoritmos/40_date.mdx
 
