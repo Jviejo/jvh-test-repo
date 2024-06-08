@@ -47,3 +47,29 @@ chapters:
           - title: Date
             description: El objeto Date
             path: 02_algoritmos/01_SSI_WALLET.mdx
+
+    - title: ARRAY
+      slug: array
+      description: Uso de array
+      lessons:
+          - title: El array
+            description: Uso del array
+            path: 02_algoritmos/01_SSI_WALLET.mdx
+          - title: Algoritmos con array
+            description: Algoritmos con arrays
+            path: 02_algoritmos/02_CREATE_CREDENTIAL.mdx
+          - title: Find
+            description: Uso de find
+            path: 02_algoritmos/01_SSI_WALLET.mdx
+          - title: Filter
+            description: Uso de filter
+            path: 02_algoritmos/01_SSI_WALLET.mdx
+          - title: Map
+            description: Uso de map
+            path: 02_algoritmos/01_SSI_WALLET.mdx
+          - title: Reduce
+            description: Uso de reduce
+            path: 02_algoritmos/01_SSI_WALLET.mdx
+          - title: Otras funciones 
+            description: Uso de foreach, includes, every
+            path: 02_algoritmos/01_SSI_WALLET.mdx
