@@ -54,22 +54,42 @@ chapters:
       lessons:
           - title: El array
             description: Uso del array
-            path: 02_algoritmos/01_SSI_WALLET.mdx
+            path: 03_array/01_SSI_WALLET.mdx
           - title: Algoritmos con array
             description: Algoritmos con arrays
-            path: 02_algoritmos/02_CREATE_CREDENTIAL.mdx
+            path: 03_array/02_CREATE_CREDENTIAL.mdx
           - title: Find
             description: Uso de find
-            path: 02_algoritmos/01_SSI_WALLET.mdx
+            path: 03_array/01_SSI_WALLET.mdx
           - title: Filter
             description: Uso de filter
-            path: 02_algoritmos/01_SSI_WALLET.mdx
+            path: 03_array/01_SSI_WALLET.mdx
           - title: Map
             description: Uso de map
-            path: 02_algoritmos/01_SSI_WALLET.mdx
+            path: 03_array/01_SSI_WALLET.mdx
           - title: Reduce
             description: Uso de reduce
-            path: 02_algoritmos/01_SSI_WALLET.mdx
+            path: 03_array/01_SSI_WALLET.mdx
           - title: Otras funciones 
             description: Uso de foreach, includes, every
-            path: 02_algoritmos/01_SSI_WALLET.mdx
+            path: 03_array/01_SSI_WALLET.mdx
+    - title: OBJETOS
+      slug: objetos
+      description: Los objetos en javascript
+      lessons:
+          - title: Los objetos
+            description: Uso de los objetos
+            path: 04_objetos/01_SSI_WALLET.mdx
+          - title: Array de objetos
+            description: Uso de los objetos
+            path: 04_objetos/01_SSI_WALLET.mdx
+    - title: ASINCRONO
+      slug: asincrono
+      description: Las promesas en javascript
+      lessons:
+          - title: Las promesas
+            description: uso de las promesas
+            path: 05_asincrono/01_SSI_WALLET.mdx
+          - title: Array de objetos
+            description: Uso de los objetos
+            path: 05_asincrono/01_SSI_WALLET.mdx
