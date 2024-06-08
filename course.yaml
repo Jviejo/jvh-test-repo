@@ -37,10 +37,10 @@ chapters:
       lessons:
           - title: Condicionales
             description: Condicional
-            path: 02_algoritmos/10_condicionales.mdx
+            path: 02_algoritmos/10_condiciones.mdx
           - title: Math
             description: El objeto Math
-            path: 02_algoritmos/20_match.mdx
+            path: 02_algoritmos/20_math.mdx
           - title: String
             description: El objeto String
             path: 02_algoritmos/30_string.mdx
@@ -48,71 +48,71 @@ chapters:
             description: El objeto Date
             path: 02_algoritmos/40_date.mdx
 
-    - title: ARRAY
-      slug: array
-      description: Uso de array
-      lessons:
-          - title: El array
-            description: Uso del array
-            path: 03_array/01_SSI_WALLET.mdx
-          - title: Algoritmos con array
-            description: Algoritmos con arrays
-            path: 03_array/02_CREATE_CREDENTIAL.mdx
-          - title: Find
-            description: Uso de find
-            path: 03_array/01_SSI_WALLET.mdx
-          - title: Filter
-            description: Uso de filter
-            path: 03_array/01_SSI_WALLET.mdx
-          - title: Map
-            description: Uso de map
-            path: 03_array/01_SSI_WALLET.mdx
-          - title: Reduce
-            description: Uso de reduce
-            path: 03_array/01_SSI_WALLET.mdx
-          - title: Otras funciones 
-            description: Uso de foreach, includes, every
-            path: 03_array/01_SSI_WALLET.mdx
-    - title: OBJETOS
-      slug: objetos
-      description: Los objetos en javascript
-      lessons:
-          - title: Los objetos
-            description: Uso de los objetos
-            path: 04_objetos/01_SSI_WALLET.mdx
-          - title: Array de objetos
-            description: Uso de los objetos
-            path: 04_objetos/01_SSI_WALLET.mdx
-    - title: ASINCRONO
-      slug: asincrono
-      description: Las promesas en javascript
-      lessons:
-          - title: Las promesas
-            description: uso de las promesas
-            path: 05_asincrono/01_SSI_WALLET.mdx
-          - title: Array de objetos
-            description: Uso de los objetos
-            path: 05_asincrono/01_SSI_WALLET.mdx
-    - title: BASES DE DATOS
-      slug: bdd
-      description: Bases de datos con javascript  
-      lessons:
-          - title: El contexto de bases de datos
-            description: Uso de bases de datos en javascript
-            path: 06_bdd/01_SSI_WALLET.mdx
-          - title: La base de datos sqlite
-            description: Uso de sqlite en javascript
-            path: 06_bdd/01_SSI_WALLET.mdx
-    - title: WEB SERVER
-      slug: webserver 
-      description: Hacer un web server con express
-      lessons:
-          - title: El contexto de un web server
-            description: Uso de bases de datos en javascript
-            path: 07_webserver/01_SSI_WALLET.mdx
-          - title: Creacion de un web server
-            description: Creacion de un servidor web
-            path: 07_webserver/01_SSI_WALLET.mdx
-          - title: Acceso a la base de datos desde el web server
-            description: Accedemos a sqlite desde el web server
-            path: 07_webserver/01_SSI_WALLET.mdx
+    # - title: ARRAY
+    #   slug: array
+    #   description: Uso de array
+    #   lessons:
+    #       - title: El array
+    #         description: Uso del array
+    #         path: 03_array/01_SSI_WALLET.mdx
+    #       - title: Algoritmos con array
+    #         description: Algoritmos con arrays
+    #         path: 03_array/02_CREATE_CREDENTIAL.mdx
+    #       - title: Find
+    #         description: Uso de find
+    #         path: 03_array/01_SSI_WALLET.mdx
+    #       - title: Filter
+    #         description: Uso de filter
+    #         path: 03_array/01_SSI_WALLET.mdx
+    #       - title: Map
+    #         description: Uso de map
+    #         path: 03_array/01_SSI_WALLET.mdx
+    #       - title: Reduce
+    #         description: Uso de reduce
+    #         path: 03_array/01_SSI_WALLET.mdx
+    #       - title: Otras funciones 
+    #         description: Uso de foreach, includes, every
+    #         path: 03_array/01_SSI_WALLET.mdx
+    # - title: OBJETOS
+    #   slug: objetos
+    #   description: Los objetos en javascript
+    #   lessons:
+    #       - title: Los objetos
+    #         description: Uso de los objetos
+    #         path: 04_objetos/01_SSI_WALLET.mdx
+    #       - title: Array de objetos
+    #         description: Uso de los objetos
+    #         path: 04_objetos/01_SSI_WALLET.mdx
+    # - title: ASINCRONO
+    #   slug: asincrono
+    #   description: Las promesas en javascript
+    #   lessons:
+    #       - title: Las promesas
+    #         description: uso de las promesas
+    #         path: 05_asincrono/01_SSI_WALLET.mdx
+    #       - title: Array de objetos
+    #         description: Uso de los objetos
+    #         path: 05_asincrono/01_SSI_WALLET.mdx
+    # - title: BASES DE DATOS
+    #   slug: bdd
+    #   description: Bases de datos con javascript  
+    #   lessons:
+    #       - title: El contexto de bases de datos
+    #         description: Uso de bases de datos en javascript
+    #         path: 06_bdd/01_SSI_WALLET.mdx
+    #       - title: La base de datos sqlite
+    #         description: Uso de sqlite en javascript
+    #         path: 06_bdd/01_SSI_WALLET.mdx
+    # - title: WEB SERVER
+    #   slug: webserver 
+    #   description: Hacer un web server con express
+    #   lessons:
+    #       - title: El contexto de un web server
+    #         description: Uso de bases de datos en javascript
+    #         path: 07_webserver/01_SSI_WALLET.mdx
+    #       - title: Creacion de un web server
+    #         description: Creacion de un servidor web
+    #         path: 07_webserver/01_SSI_WALLET.mdx
+    #       - title: Acceso a la base de datos desde el web server
+    #         description: Accedemos a sqlite desde el web server
+    #         path: 07_webserver/01_SSI_WALLET.mdx
