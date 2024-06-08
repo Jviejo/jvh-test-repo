@@ -7,7 +7,7 @@ projects:
   - title: Practica con Variables
     description: Practica con Variables
     path: ./projects/01_variables
-    # slug: variables
+    slug: variables
 
 chapters:
     - title: INTRODUCCION
