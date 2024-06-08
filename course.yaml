@@ -96,6 +96,7 @@ chapters:
             description: Uso de los objetos
             path: 04_objetos/01_SSI_WALLET.mdx
             slug: array
+            
     - title: ASINCRONO
       slug: asincrono
       description: Las promesas en javascript
