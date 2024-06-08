@@ -17,19 +17,19 @@ chapters:
           - title:  Variables
             slug: variables
             description: Variables
-            path: 01_js/10_JS_VARIABLES.mdx
+            path: 01_js/10_variables.mdx
           - title: Expresiones
             slug: expresiones
             description: expresiones
-            path: 01_js/20_JS_EXPRESIONES.mdx
+            path: 01_js/20_expresiones.mdx
           - title: Bucles
             slug: bucles
             description: Estrucutras de control. Bucles
-            path: 01_js/30_JS_BUCLES.mdx
+            path: 01_js/30_bucles.mdx
           - title: Condicional
             slug: Condicional
             description: Estrucutras de control. Condicional
-            path: 01_js/40_JS_CONDICIONALES.mdx
+            path: 01_js/40_condicionales.mdx
 
     - title: ALGORITMOS
       slug: algoritmos
