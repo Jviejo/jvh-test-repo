@@ -17,19 +17,19 @@ chapters:
           - title: Welcome to the course jvh
             slug: welcome-to-the-course
             description: This lesson welcomes you to the course
-            path: 01_ssi/01_SSI_INTRO.mdx
+            path: 01_js/01_JS_VARIABLES.mdx
           - title: SSI Concepts jvh
             slug: ssi-concepts
             description: This lesson introduces you to the concepts of SSI
-            path: 01_ssi/02_SSI_CONCEPTS.mdx
+            path: 01_js/02_JS_EXPRESIONES.mdx
           - title: SSI Issuer
             slug: ssi-issuer
             description: This lesson introduces you to the concept of SSI Issuer
-            path: 01_ssi/03_SSI_ISSUER.mdx
+            path: 01_js/03_JS_BUCLES.mdx
           - title: SSI Verifier
             slug: ssi-verifier
             description: This lesson introduces you to the concept of SSI Verifier
-            path: 01_ssi/04_SSI_VERIFIER.mdx
+            path: 01_js/04_JS_CONDICIONALES.mdx
 
     - title: Getting Started
       slug: getting-started
