@@ -93,3 +93,26 @@ chapters:
           - title: Array de objetos
             description: Uso de los objetos
             path: 05_asincrono/01_SSI_WALLET.mdx
+    - title: BASES DE DATOS
+      slug: bdd
+      description: Bases de datos con javascript  
+      lessons:
+          - title: El contexto de bases de datos
+            description: Uso de bases de datos en javascript
+            path: 06_bdd/01_SSI_WALLET.mdx
+          - title: La base de datos sqlite
+            description: Uso de sqlite en javascript
+            path: 06_bdd/01_SSI_WALLET.mdx
+    - title: WEB SERVER
+      slug: webserver 
+      description: Hacer un web server con express
+      lessons:
+          - title: El contexto de un web server
+            description: Uso de bases de datos en javascript
+            path: 07_webserver/01_SSI_WALLET.mdx
+          - title: Creacion de un web server
+            description: Creacion de un servidor web
+            path: 07_webserver/01_SSI_WALLET.mdx
+          - title: Acceso a la base de datos desde el web server
+            description: Accedemos a sqlite desde el web server
+            path: 07_webserver/01_SSI_WALLET.mdx
