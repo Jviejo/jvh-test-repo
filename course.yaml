@@ -1,13 +1,13 @@
-title: SSI Course
-slug: ssi-course
-description: This course is designed to teach you how to use SSI to manage identities
+title: Javascript
+slug: javascript
+description: This course helps you learn the basics of Javascript
 
 
 projects:
-  - title: Practice Bun
-    description: This project helps you learn the basics of BUN
-    path: ./projects/get-started-with-bun
-    slug: get-started-with-bun
+  - title: Practica con Variables
+    description: Practica con Variables
+    path: ./projects/01_variables
+    slug: variables
 
 chapters:
     - title: Introduction
