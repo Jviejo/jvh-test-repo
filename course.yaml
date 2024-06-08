@@ -58,32 +58,33 @@ chapters:
       lessons:
           - title: El array
             description: Uso del array
-            path: 03_array/array.mdx
+            path: 03_array/10_array.mdx
             slug: array
           - title: Algoritmos con array
             description: Algoritmos con arrays
-            path: 03_array/algoritmos.mdx
+            path: 03_array/20_algoritmos.mdx
             slug: algoritmos
           - title: Find
             description: Uso de find
-            path: 03_array/find.mdx
-            slug: find
+            path: 03_array/30_find.mdx
+            slug: find 
           - title: Filter
             description: Uso de filter
-            path: 03_array/filter.mdx
+            path: 03_array/40_filter.mdx
             slug: filter
           - title: Map
             description: Uso de map
-            path: 03_array/map.mdx
+            path: 03_array/50_map.mdx
             slug: map
           - title: Reduce
             description: Uso de reduce
-            path: 03_array/reduce.mdx
+            path: 03_array/60_reduce.mdx
             slug: reduce
           - title: Otras funciones 
             description: Uso de foreach, includes, every
-            path: 03_array/otras.mdx
+            path: 03_array/70_otras.mdx
             slug: otras
+
     - title: OBJETOS
       slug: objetos
       description: Los objetos en javascript
