@@ -37,16 +37,16 @@ chapters:
       lessons:
           - title: Condicionales
             description: Condicional
-            path: 02_algoritmos/01_SSI_WALLET.mdx
+            path: 02_algoritmos/10_condicionales.mdx
           - title: Math
             description: El objeto Math
-            path: 02_algoritmos/02_CREATE_CREDENTIAL.mdx
+            path: 02_algoritmos/20_match.mdx
           - title: String
             description: El objeto String
-            path: 02_algoritmos/01_SSI_WALLET.mdx
+            path: 02_algoritmos/30_string.mdx
           - title: Date
             description: El objeto Date
-            path: 02_algoritmos/01_SSI_WALLET.mdx
+            path: 02_algoritmos/40_date.mdx
 
     - title: ARRAY
       slug: array
