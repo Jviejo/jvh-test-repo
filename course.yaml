@@ -91,11 +91,11 @@ chapters:
       lessons:
           - title: Los objetos
             description: Uso de los objetos
-            path: 04_objetos/01_SSI_WALLET.mdx
+            path: 04_objetos/10_objetos.mdx
             slug: objetos
           - title: Array de objetos
             description: Uso de los objetos
-            path: 04_objetos/01_SSI_WALLET.mdx
+            path: 04_objetos/20_uso.mdx
             slug: array
 
     - title: ASINCRONO
@@ -104,11 +104,11 @@ chapters:
       lessons:
           - title: Las promesas
             description: uso de las promesas
-            path: 05_asincrono/01_SSI_WALLET.mdx
+            path: 05_asincrono/10_promesas.mdx
             slug: promesas
           - title: Array de objetos
             description: Uso de los objetos
-            path: 05_asincrono/01_SSI_WALLET.mdx
+            path: 05_asincrono/20_uso.mdx
             slug: array
     - title: BASES DE DATOS
       slug: bdd
@@ -116,11 +116,11 @@ chapters:
       lessons:
           - title: El contexto de bases de datos
             description: Uso de bases de datos en javascript
-            path: 06_bdd/01_SSI_WALLET.mdx
+            path: 06_bdd/10_bdd.mdx
             slug: contexto
           - title: La base de datos sqlite
             description: Uso de sqlite en javascript
-            path: 06_bdd/01_SSI_WALLET.mdx
+            path: 06_bdd/20_sqlite.mdx
             slug: sqlite
     - title: WEB SERVER
       slug: webserver 
@@ -129,12 +129,12 @@ chapters:
           - title: El contexto de un web server
             description: Uso de bases de datos en javascript
             slug: contexto
-            path: 07_webserver/01_SSI_WALLET.mdx
+            path: 07_webserver/10_contexto.mdx
           - title: Creacion de un web server
             description: Creacion de un servidor web
-            path: 07_webserver/01_SSI_WALLET.mdx
+            path: 07_webserver/20_create.mdx
             slug: creacion
           - title: Acceso a la base de datos desde el web server
             description: Accedemos a sqlite desde el web server
-            path: 07_webserver/01_SSI_WALLET.mdx
+            path: 07_webserver/30_bdd.mdx
             slug: acceso
