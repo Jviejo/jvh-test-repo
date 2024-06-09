@@ -41,7 +41,7 @@ chapters:
             slug: condicionales
           - title: Math
             description: El objeto Math
-            path: 02_algoritmos/20_match.mdx
+            path: 02_algoritmos/20_math.mdx
             slug: math
           - title: String
             description: El objeto String
